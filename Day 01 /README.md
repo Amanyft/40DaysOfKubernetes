@@ -1,4 +1,4 @@
-# Beginner's Guide to Docker: Day 1 of 40 days of kubernetes
+# Beginner's Guide to Docker: Day 1 of 40 days of kubernetes 🚀 
 
 ## What is Docker ?
 Docker is an open-source platform that enables developers to automate the deployment, scaling, and management of applications within lightweight, portable containers. These containers package an application and its dependencies together, ensuring that the application runs consistently across different environments.
