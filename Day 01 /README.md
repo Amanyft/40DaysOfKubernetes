@@ -86,6 +86,7 @@ Containerizing applications using Docker simplifies deployment processes, improv
 By packaging applications into containers, Docker guarantees uniform performance across diverse environments, establishing itself as an essential asset in contemporary software development and deployment workflows.
 
 For more information go through this video by Piyush Sachdeva.
+
 [![Day1/40 - Docker Tutorial For Beginners](https://img.youtube.com/vi/ul96dslvVwY/sddefault.jpg)](https://youtu.be/ul96dslvVwY)
 
 
